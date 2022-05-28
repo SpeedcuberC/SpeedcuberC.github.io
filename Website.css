@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: #912F40;
+    height: 200vh;
+}
+
+.Nav {
+    background-color: #FFFFFA;
+    padding: 1rem;
+    font-family: Inter var, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-weight: 700;
+    margin: 2.5rem 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.Start-up {
+    Font-size: 3rem;
+    Padding: 1.5rem 0;
+    margin: auto 0;
+    color: #912F40;
+    padding-left: 1.5rem;
+    text-decoration: underline;
+}
+
+.Date {
+    font-size: 1rem;
+    margin: auto 0;
+    margin-left: auto;
+    color: #912F40;
+    Padding: 1.5rem 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* M Container */
+
+.M-Container {
+    display: flex;
+    justify-content: center;
+    color: #FFFFFA;
+    font-size: 1rem;
+    opacity: 90%;
+}
+
+.Container {
+    Padding: 0.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.Social-Acc {
+    display: flex;
+    padding-left: auto;
+    padding-right: 1rem;
+    align-items: center;
+    background-color: #FFFFFA;
+    height: 5rem;
+    justify-content: space-evenly;
+}
+
+.Social {
+    Padding: 0 0.5rem;
+    margin: 0 0.5rem;
+    align-items: center;
+    justify-content: center;
+    opacity: 90%;
+}
+
+
+/*
+.M-Transform {
+    background-color: aliceblue;
+    padding: 1rem;
+    margin-top: 3.5rem;
+    width: 5rem;
+    justify-content: center;
+}
+
+.Transform {}
+
+*/
